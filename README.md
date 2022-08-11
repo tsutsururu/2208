@@ -499,7 +499,7 @@ for i in range(2^N) for j in range(N) とするか、どれを選ぶかのbool�
 6つのマスをとりだして、黒が4マス以上あればYes判定
 
 白を数えないで済む点がすぐれているが、例えば以下のような例で正しくNoを出力する処理を実装する必要がある。
-
+l
 
 ![image](https://user-images.githubusercontent.com/109026838/183443233-0291d24c-debb-4849-9036-f249b833d7c7.png)
 
