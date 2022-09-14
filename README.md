@@ -339,7 +339,7 @@ codeでは dfsを再帰する前に処理するか後に処理するかだけの
 
 
 
-# ☆ Slot Strategy  2回目
+# 252C  Slot Strategy  2回目    済
 
 解答遷移 WA TLE TLE RE AC
 
