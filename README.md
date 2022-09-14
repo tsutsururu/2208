@@ -469,7 +469,7 @@ for i in range(2^N) for j in range(N) とするか、どれを選ぶかのbool�
 
 
 
-# 241C Connect6  2回目
+# 241C Connect6  2回目　　済
 
 解答遷移 AC
 
@@ -556,7 +556,8 @@ y軸の値で分類して、2点が条件を満たすかという処理は絶対
 
 
 
-# ☆ 233C Product
+# ☆ 233C Product   済
+
 
 解答遷移 方針がわからず諦め
 
