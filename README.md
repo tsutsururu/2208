@@ -361,7 +361,7 @@ codeでは dfsを再帰する前に処理するか後に処理するかだけの
 
 
 
-# 226A Round decimals  2回目
+# 226A Round decimals  2回目  済
 
 解答遷移 AC
 
@@ -529,7 +529,7 @@ for i in range(2^N) for j in range(N) とするか、どれを選ぶかのbool�
 
 
 
-# 245C Choose Elements
+# 245C Choose Elements　　　済
 
 解答遷移 WA WA AC
 
