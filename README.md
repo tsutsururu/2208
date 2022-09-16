@@ -585,7 +585,7 @@ dfsで扱っていた再帰関数とは言ってしまえば何重ものforル�
 
 # 08/19
 
-# ☆ 225C_Calendar Validator
+# ☆ 225C_Calendar Validator　　
 
 解答遷移 WA WA 諦め
 
@@ -611,7 +611,7 @@ Bの全要素をB[0][0]で引いたBを作成、Bの要素すべてが行index *
 ③ u2dayoの解説が意味不明。問題が変わった？
 
 
-# ☆ 223C Doukasen
+# ☆ 223C Doukasen　　済
  
 解答遷移　TLE AC　
 
