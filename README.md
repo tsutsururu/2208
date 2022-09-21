@@ -933,7 +933,7 @@ int(X)はXを0に近づくように丸める。//はガウス
 
 
 
-#  ☆ 231C Counting2
+#  ☆ 231C Counting2  
 
 numpyではどうしても通らず諦め
 
@@ -1107,7 +1107,7 @@ A,B,Cの制約を確認せずに、問題の容易さに飛びついて素直に
 
 
 
-# ☆ 201C Secret Number　　diff 439
+# ☆ 201C Secret Number　　diff 439　　済
 
 諦め
 
