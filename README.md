@@ -184,7 +184,7 @@ codeでは dfsを再帰する前に処理するか後に処理するかだけの
 
 
 
-# 228A  Mnay Oranges　2回目
+# 195B  Mnay Oranges　2回目
 
 解答遷移 AC
 
