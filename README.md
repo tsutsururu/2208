@@ -937,7 +937,7 @@ int(X)はXを0に近づくように丸める。//はガウス
 
 
 
-#  ☆ 231C Counting2  
+#  231C Counting2  済
 
 numpyではどうしても通らず諦め
 
